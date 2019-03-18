@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+<?php
+    $test = 'Hello World';
+?>
+
+<!doctype html>
 <html>
 <head>
     <title>A page</title>
